@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulaire de contact</title>
+    <meta content="" name="description">
+    <meta content="width= device-width, initial-scale=1" name="viewport">
+    <script src="../js/exemple.js"></script>
+    <link href="../css/main.css" rel="stylesheet">
+    <link href="../css/form.css" rel="stylesheet">
+</head>
+<body>
+<header>
+    <div id="nav-fixed">
+        <div class="nav-bar">
+            <ol class="logo-list">
+                <li id="first-logo"><a><img alt="logo arobase" id="arobase" src="../img/logo-arobase.png"></a></li>
+                <li id="second-logo"><a><img alt="logo instagram" id="insta" src="../img/logo-instagram.png"></a></li>
+                <li id="third-logo"><a><img alt="logo facebook" id="facebook" src="../img/logo-facebook.png"></a></li>
+            </ol>
+        </div>
+        <div class="green-bar">
+            <img alt="logo" id="logo" src="../img/logo-cerf-vert.png">
+
+            <div id="menu-burger">
+                <input type="checkbox"/>
+                <span></span>
+                <span></span>
+                <span></span>
+
+                <ul id="menu">
+                    <a href="index.html">
+                        <li id="accueil">Accueil</li>
+                    </a>
+                    <a href="Article.html">
+                        <li id="article">Article</li>
+                    </a>
+                    <a href="form-association.html">
+                        <li id="contact">Contact</li>
+                    </a>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>
+<form class="form">
+    <div class="coordinate">
+    <div class="name">
+        <label for="name">Nom</label>
+        <input id="name" name="name" required type="text">
+    </div>
+    <div class="first-name"><label for="first-name">Prénom</label>
+        <input id="first-name" name="first-name" required type="text"></div>
+    <div class="email"><label for="email"> Adresse Email</label>
+        <input id="email" name="email" required type="email"></div>
+    <div class="residence"><label for="residence">Adresse de domicile</label>
+        <input id="residence" name="residence" required type="text"></div>
+    <div class="phone-number">
+        <label for="phone-number">Numéro de téléphone</label>
+        <input id="phone-number" name="phone-number" required type="number">
+    </div>
+    </div>
+    <div class="donation-checkbox">
+        <input checked id="donation1" name="donation1" type="checkbox">
+        <label for="donation1">Donnation 1</label>
+    </div>
+    <div class="donation-checkbox">
+        <input id="donation2" name="donation2" type="checkbox">
+        <label for="donation2">Donnation 2</label>
+    </div>
+    <div class="donation-checkbox">
+        <input id="donation3" name="donation3" type="checkbox">
+        <label for="donation3">Donnation 3</label>
+    </div>
+
+    <div class="commentary">
+        <label for="commentary">Laissez un commentaire</label>
+        <textarea cols="45" id="commentary" name="commentary" rows="15"> </textarea>
+    </div>
+    <div class="information-checkbox">
+        <input id="information-checkbox" name="information-checkbox" type="checkbox">
+        <label for="information-checkbox">Je shouaites recevoir du courriel d'information</label>
+    </div>
+    <div class="condition-checkbox">
+        <input id="condition-checkbox" name="condition-checkbox" type="checkbox">
+        <label for="condition-checkbox">J'ai lu et accepter les <a href="#">conditions générales d'utilisation</a> (pas
+            encore
+            disponible)</label>
+    </div>
+    <div class="button-submit">
+        <button type="submit">Envoyer</button>
+    </div>
+</form>
+<footer>
+<div class="adress">
+    <ol>
+        <li>Ch.de la sagne du sentier 2</li>
+        <li>1347 le Sentier</li>
+        <li>Vaud</li>
+        <li>Suisse</li>
+        <li>+41.78.490.32.19</li>
+        <li>Notre Email: <a href="">labonnepatte@gmail.com</a></li>
+    </ol>
+
+</div>
+</footer>
+</body>
+</html>
