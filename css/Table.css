@@ -1,0 +1,29 @@
+html{
+    background-color: #c6d4ff;
+}
+
+#table-main{
+    border-style: solid ;
+}
+
+
+table{
+    width: 100%;
+    text-align: left;
+}
+
+caption{
+    font-size: 30px;
+}
+
+#title{
+    background-color: #156064;
+}
+
+#Sheeta{
+    background-color: #00c49a;
+}
+
+#Gnou{
+    background-color:#00c49a ;
+}
