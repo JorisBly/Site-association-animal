@@ -10,7 +10,9 @@ html{
 table{
     width: 100%;
     text-align: left;
+    margin-top:215px;
 }
+
 
 caption{
     font-size: 30px;
@@ -26,4 +28,13 @@ caption{
 
 #Gnou{
     background-color:#00c49a ;
+}
+
+@media only screen and (max-width: 600px) {
+
+   table{
+       margin-top: 65px;
+   }
+
+
 }
