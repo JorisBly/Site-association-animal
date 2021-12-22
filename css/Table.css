@@ -1,17 +1,39 @@
 html{
-    background-color: #c6d4ff;
+    background-color: white;
 }
+
+
 
 #table-main{
     border-style: solid ;
+
 }
 
 
 table{
-    width: 100%;
-    text-align: left;
+
+    width: 80%;
+    text-align: center;
     margin-top:215px;
+    margin-left: 10%;
+    margin-right: 10%;
+
 }
+
+td{
+    font-size: 30px;
+    height: 50px;
+    text-align: center;
+
+
+
+}
+
+tr{
+    font-size: 20px;
+    text-align: center;
+}
+
 
 
 caption{
@@ -19,15 +41,30 @@ caption{
 }
 
 #title{
-    background-color: #156064;
+    background-color: #C4C4C4;
 }
 
 #Sheeta{
-    background-color: #00c49a;
+    background-color: #42A44C;
+
+}
+#Sheeta td{
+
 }
 
 #Gnou{
-    background-color:#00c49a ;
+    background-color: #42A44C;
+
+}
+
+#cerf{
+    background-color: #42A44C;
+
+}
+
+#zebre{
+    background-color: #42A44C;
+
 }
 
 @media only screen and (max-width: 600px) {
@@ -35,6 +72,10 @@ caption{
    table{
        margin-top: 65px;
    }
+
+    td{
+        font-size: 20px;
+    }
 
 
 }
