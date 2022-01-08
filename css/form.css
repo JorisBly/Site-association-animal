@@ -17,6 +17,12 @@ margin: 50px 0 40px 0;
     display: block;
 
 }
+
+#region-number{
+    background-color: #ccc;
+}
+
+
 .donation-checkbox{
     text-align: center;
 }
@@ -67,7 +73,7 @@ margin: 50px 0 40px 0;
 }
 .button-submit button{
   color:white;
-    background-color: #18ee2c;
+    background-color:#0cc51d;
     width: 73px;
     height: 45px;
     border: none;

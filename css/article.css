@@ -174,7 +174,42 @@ article{
     margin-top: 35vh;
 }
     .article-section {
-        grid-template-columns: 0px 310px 10px 310px;
-        grid-template-rows: 560px 105px 560px 105px 560px 105px 560px 105px 560px 105px 560px;
+        grid-template-columns: 100px 310px 100px 310px 100px 310px 100px 310px ;
+        grid-template-rows: 560px 105px 560px 105px ;
     }
+
+
+    .second-article{
+        grid-column-start: 6;
+        grid-column-end: 7;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+
+    .third-article{
+
+        grid-column-start: 4;
+        grid-column-end: 5;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+.vorth-article{
+    grid-column-start: 8;
+    grid-column-end: 9;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+.fifth-article{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+
+.sixth-article{
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
 }
