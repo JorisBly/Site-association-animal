@@ -118,7 +118,7 @@
       <workItem from="1641458702757" duration="46000" />
       <workItem from="1641649112813" duration="3793000" />
       <workItem from="1641798526498" duration="14712000" />
-      <workItem from="1641820524184" duration="5203000" />
+      <workItem from="1641820524184" duration="5704000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout de &lt;td&gt; supplémentaire à Table.html et ajout du média querry de max 600 px a Table.css">
       <created>1639555729294</created>
@@ -183,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641828354588</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Mise au point des lien du menu burger de index.html">
+      <created>1641828714152</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641828714152</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +206,8 @@
     <MESSAGE value="Ajout de l'index.html à la racine du dossier" />
     <MESSAGE value="Mise à niveau du index.html" />
     <MESSAGE value="Remise des bons liens pour le slider" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remise des bons liens pour le slider" />
+    <MESSAGE value="Mise au point des lien du menu burger de index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mise au point des lien du menu burger de index.html" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
