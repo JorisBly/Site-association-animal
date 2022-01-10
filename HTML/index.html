@@ -24,7 +24,7 @@
             </ol>
         </div>
         <div class="green-bar">
-            <img id="logo" src="../img/logo-cerf-vert.png" alt="logo">
+            <img alt="logo" id="logo" src="../img/logo-cerf-vert.png">
 
             <div id="menu-burger">
                 <input type="checkbox"/>
@@ -32,18 +32,23 @@
                 <span></span>
                 <span></span>
 
+
                 <ul id="menu">
-                    <a href="index.html">
-                        <li id="accueil">Accueil</li>
-                    </a>
-                    <a href="Article.html">
-                        <li id="article">Article </li>
-                    </a>
-                    <a href="form-association.html">
-                        <li id="contact">Contact</li>
-                    </a>
-                    <a href="Table.html"> <li id="Tableau-de-comparatif">Tableau comparatif</li></a>
-                    <a href="Questionnaire.html"> <li id="Questionnaire">Questionnaire</li></a>
+
+                    <li id="accueil"><a href="index.html">Accueil </a></li>
+
+
+                    <li id="article"><a href="Article.html">Article</a></li>
+
+
+                    <li id="contact"><a href="form-association.html">Contact</a></li>
+
+
+                    <li id="Tableau-de-comparatif"><a href="Table.html">Tableau comparatif </a></li>
+
+
+                    <li id="Questionnaire"><a href="Questionnaire.html">Questionnaire</a></li>
+
                 </ul>
             </div>
         </div>
@@ -52,7 +57,7 @@
 <div class="slideshow-container">
 
     <div class="mySlides fade ">
-        <img src="../img/ours_4k.jpg" alt="image d'un ours" id="ours"/>
+        <img alt="image d'un ours" id="ours" src="../img/ours_4k.jpg"/>
         <div id="text-ours"><h1>AIDER LES OURS</h1>
             <p>les ours en détresse</p>
             <button type="button">cliquez-ici</button>
@@ -60,14 +65,14 @@
     </div>
 
     <div class="mySlides fade">
-        <img src="../img/malinois-war-resize.jpg" alt="image d'un Malinois" id="malinois">
+        <img alt="image d'un Malinois" id="malinois" src="../img/malinois-war-resize.jpg">
         <div id="text-malinois"><h1>AIDER LES CHIENS D'ARMÉS</h1>
             <p>les chiens exploités</p>
             <button type="button">cliquez-ici</button>
         </div>
     </div>
     <div class="mySlides fade">
-        <img src="../img/petit-chien-resize.jpeg" alt="image d'un petit chien" id="petit-chien">
+        <img alt="image d'un petit chien" id="petit-chien" src="../img/petit-chien-resize.jpeg">
         <div id="text-petit-chien"><h1>AIDER LES CHIOTS</h1>
             <p>les chiots abandonnés</p>
             <button type="button">cliquez-ici</button>
@@ -93,21 +98,24 @@
     <section class="first-donation h1-donation">
         <div class="text-bee"><h1>Protéger les abeilles</h1>
             <p>Cette donation vise à aider les abeilles qui sont extrêmements importantes pour notre écosystème</p>
-            <a href="form-association.html"><button type="button">Donner</button></a>
+                <button onclick="window.location.href = 'form-association.html'" type="button">Donner</button>
+
         </div>
     </section>
     <section class="second-donation h1-donation">
         <div class="text-puppy"><h1>Aidez-les</h1>
             <p>Le monde a remarqué un nombre improtant de chiots abandonner.<br>aidez-nous en donant pour cette cause
             </p>
-            <a href="form-association.html"><button type="button">Donner</button></a>
+                <button onclick="window.location.href = 'form-association.html'" type="button">Donner</button>
         </div>
     </section>
     <section class="third-donation h1-donation">
         <div class="text-turtle"><h1>Aidez-les</h1>
             <p>La Mer est rempli de nos déchets aidez-nous a combattre ceci
             </p>
-            <a href="form-association.html"><button type="button">Donner</button></a>
+
+            <button onclick="window.location.href = 'form-association.html'" type="button">Donner</button>
+
         </div>
     </section>
 </div>

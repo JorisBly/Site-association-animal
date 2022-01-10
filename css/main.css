@@ -552,7 +552,7 @@ header {
 .donations button {
     font-size: 15px;
     color: white;
-    grid-row-start: 2;
+    grid-row-start: 3;
     width: 100%;
     height: 60px;
     border: none;
