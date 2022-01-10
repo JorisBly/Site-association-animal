@@ -98,14 +98,12 @@ header {
 
 #menu-burger a {
     text-decoration: none;
-    color: #C4C4C4;
+    color: white;
 
     transition: color 0.3s ease;
 }
 
-#menu-burger a:hover {
-    color:  #42A44C;
-}
+
 
 #menu-burger input {
     display: block;
@@ -190,9 +188,10 @@ header {
     border-style: solid;
     border-color: #c1bbbb;
     font-family: system-ui;
-    color: #f6efef;
+    color: white;
 }
- #menu li:hover{
+
+#menu li:hover {
     background-color: #0cc51d;
 }
 
@@ -205,7 +204,7 @@ header {
 
 /*fin du menu burger*/
 
-/* carousel*/
+/* ---------------------------------------------------------------------------------------------------------- carousel*/
 .slideshow-container {
     box-sizing: border-box;
     max-width: 100%;
@@ -435,12 +434,13 @@ header {
 .donations {
     display: grid;
     grid-template-columns: 18vw 63vw;
-    grid-template-rows: 42vh 9vh 42vh 9vh 42vh ;
+    grid-template-rows: 42vh 9vh 42vh 9vh 42vh;
     margin-top: 14vh;
     padding-top: 12vh;
-    background-color:rgb(193 189 184);
+    background-color: rgb(193 189 184);
 }
-.h1-donation h1{
+
+.h1-donation h1 {
     padding-top: 30px;
 }
 
@@ -454,14 +454,12 @@ header {
     background-image: url("../img/abeille.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    box-shadow:
-            0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-            0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-            0 12.5px 10px rgba(0, 0, 0, 0.06),
-            0 22.3px 17.9px rgba(0, 0, 0, 0.072),
-            0 41.8px 33.4px rgba(0, 0, 0, 0.086),
-            0 100px 80px rgba(0, 0, 0, 0.12)
-;
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
 
 
 }
@@ -490,14 +488,12 @@ header {
     grid-row-end: 4;
     background-image: url("../img/images-puppy.jpeg");
 
-    box-shadow:
-            0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-            0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-            0 12.5px 10px rgba(0, 0, 0, 0.06),
-            0 22.3px 17.9px rgba(0, 0, 0, 0.072),
-            0 41.8px 33.4px rgba(0, 0, 0, 0.086),
-            0 100px 80px rgba(0, 0, 0, 0.12)
-;
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
 }
 
 .text-puppy {
@@ -524,14 +520,12 @@ header {
     grid-row-start: 5;
     grid-row-end: 6;
     background-image: url("../img/image-tortue.jpg");
-    box-shadow:
-            0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-            0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-            0 12.5px 10px rgba(0, 0, 0, 0.06),
-            0 22.3px 17.9px rgba(0, 0, 0, 0.072),
-            0 41.8px 33.4px rgba(0, 0, 0, 0.086),
-            0 100px 80px rgba(0, 0, 0, 0.12)
-;
+    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
 }
 
 .text-turtle {
@@ -567,7 +561,7 @@ header {
 
 .adress {
 
-    bottom:0;
+    bottom: 0;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -580,106 +574,129 @@ header {
     list-style-type: none;
     padding: 0;
 }
+
 /*au dessus de 600 pixel */
 
-@media screen and (min-width: 600px){
+@media screen and (min-width: 600px) {
 
-    #nav-fixed{
+    #nav-fixed {
         position: fixed;
     }
-.green-bar{
-    height: 11vh ;
-}
-    #logo{
+
+    .green-bar {
+        height: 11vh;
+    }
+
+    #logo {
         padding: 2px 0 0 20px;
-       width: 100px;
+        width: 100px;
         height: 130px;
     }
-    #menu-burger{
+
+    #menu-burger {
         right: 4vw;
         top: 15vh;
     }
-    #menu{
+
+    #menu {
         top: -5vh;
         left: -26vw;
         width: 35vw;
     }
-    #menu li{
+
+    #menu li {
         padding: 2vh 6vw 2vh 17vw;
     }
-    .slideshow-container{
+
+    .slideshow-container {
         margin-top: 20vh;
     }
-    #ours{
+
+    #ours {
         width: 100%;
         height: auto;
     }
-    #malinois{
+
+    #malinois {
         width: 100%;
         height: auto;
     }
-    #text-malinois{
+
+    #text-malinois {
         top: 4vh;
         left: 15vw;
         height: 16vh;
         width: 22vw;
     }
-    #petit-chien{
+
+    #petit-chien {
         width: 100%;
         height: auto;
     }
-    #text-ours{
+
+    #text-ours {
         top: 4vh;
         left: 15vw;
         height: 16vh;
         width: 22vw;
     }
-    #text-ours button{
+
+    #text-ours button {
         height: 7vh;
     }
-    #text-petit-chien{
+
+    #text-petit-chien {
         top: 4vh;
         left: 15vw;
         height: 16vh;
         width: 22vw;
     }
-    .prev, .next{
+
+    .prev, .next {
         top: 27%;
         font-size: 28px;
     }
+
     #dots {
-    top: -7vw;
-      left: 47vw;
+        top: -7vw;
+        left: 47vw;
     }
-    .dot{
-        width:2vw;
+
+    .dot {
+        width: 2vw;
         height: 2vw;
     }
-    .donations{
+
+    .donations {
         grid-template-columns:2vw 30vw 3vw 30vw 2vw 30vw;
         grid-template-rows: 75vh 10vh
     }
-    .second-donation{
+
+    .second-donation {
         grid-column-start: 4;
         grid-column-end: 5;
         grid-row-start: 1;
         grid-row-end: 2;
     }
-    .third-donation{
-       grid-column-start:6;
-        grid-column-end:7;
-        grid-row-start:1 ;
+
+    .third-donation {
+        grid-column-start: 6;
+        grid-column-end: 7;
+        grid-row-start: 1;
         grid-row-end: 2;
     }
-    .text-bee{
+
+    .text-bee {
         grid-template-columns: 30vw;
         grid-template-rows: 20vh 45vh 10vh;
     }
-    .text-puppy{
+
+    .text-puppy {
         grid-template-columns: 30vw;
         grid-template-rows: 20vh 45vh 10vh;
     }
-    .text-turtle{
+
+    .text-turtle {
         grid-template-columns: 30vw;
         grid-template-rows: 20vh 45vh 10vh;
     }
