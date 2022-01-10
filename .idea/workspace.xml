@@ -7,8 +7,7 @@
       <change beforePath="$PROJECT_DIR$/HTML/Questionnaire.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Questionnaire.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/Table.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Table.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/form-association.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/form-association.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +123,7 @@
       <workItem from="1641458702757" duration="46000" />
       <workItem from="1641649112813" duration="3793000" />
       <workItem from="1641798526498" duration="14712000" />
-      <workItem from="1641820524184" duration="3636000" />
+      <workItem from="1641820524184" duration="4004000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout de &lt;td&gt; supplémentaire à Table.html et ajout du média querry de max 600 px a Table.css">
       <created>1639555729294</created>
