@@ -43,6 +43,7 @@ justify-self: start;
 
 }
 
+
 .text-article {
     display: grid;
     grid-template-columns: 310px;

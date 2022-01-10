@@ -98,7 +98,7 @@ header {
 
 #menu-burger a {
     text-decoration: none;
-    color: #232323;
+    color: #C4C4C4;
 
     transition: color 0.3s ease;
 }
@@ -171,7 +171,7 @@ header {
     left: -38vw;
     top: -5vh;
     width: 52vw;
-    background: #1a1919;
+    background: #c1bbbb;
     list-style-type: none;
     -webkit-font-smoothing: antialiased;
     /* to stop flickering of text in safari */
@@ -191,6 +191,9 @@ header {
     border-color: #c1bbbb;
     font-family: system-ui;
     color: #f6efef;
+}
+ #menu li:hover{
+    background-color: #0cc51d;
 }
 
 /*
@@ -229,7 +232,7 @@ header {
     position: absolute;
     top: 1vh;
     left: 18vw;
-    width: 45vw;
+    width: 51vw;
     height: 11vh;
     padding: 0 15vw 16vh 4vw;
     background-color: rgba(255, 255, 255, .3);
@@ -563,7 +566,8 @@ header {
 
 
 .adress {
-    top:100%;
+
+    bottom:0;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -614,21 +618,30 @@ header {
         width: 100%;
         height: auto;
     }
+    #text-malinois{
+        top: 4vh;
+        left: 15vw;
+        height: 16vh;
+        width: 22vw;
+    }
     #petit-chien{
         width: 100%;
         height: auto;
     }
     #text-ours{
         top: 4vh;
-        left: 4vw;
+        left: 15vw;
         height: 16vh;
-        width: 43vw;
+        width: 22vw;
     }
     #text-ours button{
         height: 7vh;
     }
     #text-petit-chien{
-
+        top: 4vh;
+        left: 15vw;
+        height: 16vh;
+        width: 22vw;
     }
     .prev, .next{
         top: 27%;
