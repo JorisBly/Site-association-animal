@@ -104,7 +104,7 @@ header {
 }
 
 #menu-burger a:hover {
-    color: #19de5d;
+    color:  #42A44C;
 }
 
 #menu-burger input {
@@ -233,7 +233,7 @@ header {
     top: 1vh;
     left: 18vw;
     width: 51vw;
-    height: 11vh;
+    height: 7vh;
     padding: 0 15vw 16vh 4vw;
     background-color: rgba(255, 255, 255, .3);
     gap: 0;
@@ -277,7 +277,7 @@ header {
     top: 0;
     left: 18vw;
     width: 49vw;
-    height: 11vh;
+    height: 7vh;
     padding: 1vw 15vw 16vh 4vw;
     background-color: rgba(255, 255, 255, .3);
     gap: 0;
@@ -321,7 +321,7 @@ header {
     top: 2vh;
     left: 18vw;
     width: 52vw;
-    height: 11vh;
+    height: 7vh;
     padding: 1vw 15vw 16vh 4vw;
     background-color: rgba(255, 255, 255, .3);
     gap: 0;
