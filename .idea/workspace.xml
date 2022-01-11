@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8f60277b-08f3-43e6-8b71-cd4faba5d46b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Article.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Questionnaire.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Table.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/form-association.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Article.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questionnaire.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-association.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +126,7 @@
       <workItem from="1641820524184" duration="6413000" />
       <workItem from="1641885334568" duration="55000" />
       <workItem from="1641886897553" duration="17000" />
-      <workItem from="1641903108673" duration="1409000" />
+      <workItem from="1641903108673" duration="1872000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout de &lt;td&gt; supplémentaire à Table.html et ajout du média querry de max 600 px a Table.css">
       <created>1639555729294</created>
@@ -212,7 +212,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641903536798</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Fix the links on the menu burger in index.html">
+      <created>1641907020203</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1641907020203</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix the links on the menu burger in index.html plus déplacment des autres dossiers .html">
+      <created>1641907095113</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1641907095113</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +244,8 @@
     <MESSAGE value="Remise des bons liens pour le slider" />
     <MESSAGE value="Mise au point des lien du menu burger de index.html" />
     <MESSAGE value="Fix the links on the menu burger in index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix the links on the menu burger in index.html" />
+    <MESSAGE value="Fix the links on the menu burger in index.html plus déplacment des autres dossiers .html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix the links on the menu burger in index.html plus déplacment des autres dossiers .html" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
