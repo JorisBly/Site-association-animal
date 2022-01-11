@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8f60277b-08f3-43e6-8b71-cd4faba5d46b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Article.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/article.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/article.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Questionnaire.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Questionnaire.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Questions.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Questions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +125,7 @@
       <workItem from="1641885334568" duration="55000" />
       <workItem from="1641886897553" duration="17000" />
       <workItem from="1641903108673" duration="4376000" />
-      <workItem from="1641910023155" duration="197000" />
+      <workItem from="1641910023155" duration="3436000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout de &lt;td&gt; supplémentaire à Table.html et ajout du média querry de max 600 px a Table.css">
       <created>1639555729294</created>
@@ -266,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641909406384</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="fix size of article in Article.html">
+      <created>1641910248931</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1641910248931</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,7 +296,8 @@
     <MESSAGE value="++ the amrgin-top of table in Table.css" />
     <MESSAGE value="Fix the size of font of the &lt;p&gt; in Questions.html" />
     <MESSAGE value="Fix links in the donnations in bootom of index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix links in the donnations in bootom of index.html" />
+    <MESSAGE value="fix size of article in Article.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix size of article in Article.html" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
