@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8f60277b-08f3-43e6-8b71-cd4faba5d46b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/Article.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/article.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/article.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +123,8 @@
       <workItem from="1641820524184" duration="6413000" />
       <workItem from="1641885334568" duration="55000" />
       <workItem from="1641886897553" duration="17000" />
-      <workItem from="1641903108673" duration="3778000" />
+      <workItem from="1641903108673" duration="4376000" />
+      <workItem from="1641910023155" duration="197000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout de &lt;td&gt; supplémentaire à Table.html et ajout du média querry de max 600 px a Table.css">
       <created>1639555729294</created>
@@ -257,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641909249495</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Fix links in the donnations in bootom of index.html">
+      <created>1641909406384</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1641909406384</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +287,8 @@
     <MESSAGE value="Fix the links on the menu burger in index.html plus déplacment des autres dossiers .html" />
     <MESSAGE value="++ the amrgin-top of table in Table.css" />
     <MESSAGE value="Fix the size of font of the &lt;p&gt; in Questions.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix the size of font of the &lt;p&gt; in Questions.html" />
+    <MESSAGE value="Fix links in the donnations in bootom of index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix links in the donnations in bootom of index.html" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

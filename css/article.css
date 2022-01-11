@@ -175,7 +175,7 @@ article{
     margin-top: 35vh;
 }
     .article-section {
-        grid-template-columns: 100px 310px 100px 310px 100px 310px 100px 310px ;
+        grid-template-columns: 35px 310px 75px 310px 75px 310px 75px 310px ;
         grid-template-rows: 560px 105px 560px 105px ;
     }
 
