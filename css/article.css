@@ -4,7 +4,7 @@ article{
 }
 .article-section{
     display: grid;
-    grid-template-columns: 55px 310px;
+    grid-template-columns: 25px 310px;
     grid-template-rows: 560px 105px 560px 105px 560px 105px 560px 105px 560px 105px 560px;
     margin-top: 14vh;
     padding-top: 12vh;
