@@ -4,7 +4,7 @@ html{
 
 h2{
     font-size: 2em;
-margin-top: 20%;
+margin-top: 15%;
     text-align: center;
 }
 
@@ -18,7 +18,8 @@ table{
 
     width: 80%;
     text-align: center;
-    margin-top:40px;
+    margin-bottom: 40px;
+    margin-top:10px;
     margin-left: 10%;
     margin-right: 10%;
 border-collapse: collapse;
@@ -72,7 +73,7 @@ caption{
 }
 
 .adress {
-    position:absolute;
+    position:inherit;
     bottom:0;
     width: 100%;
     display: flex;
