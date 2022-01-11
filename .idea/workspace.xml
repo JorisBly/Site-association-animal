@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8f60277b-08f3-43e6-8b71-cd4faba5d46b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Article.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questionnaire.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Table.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/form-association.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Questions.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Questions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Table.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Table.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +123,7 @@
       <workItem from="1641820524184" duration="6413000" />
       <workItem from="1641885334568" duration="55000" />
       <workItem from="1641886897553" duration="17000" />
-      <workItem from="1641903108673" duration="1872000" />
+      <workItem from="1641903108673" duration="2460000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout de &lt;td&gt; supplémentaire à Table.html et ajout du média querry de max 600 px a Table.css">
       <created>1639555729294</created>
@@ -226,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641907095113</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Fix the links on the menu burger in index.html plus déplacment des autres dossiers .html">
+      <created>1641907479590</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1641907479590</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fix the links on the menu burger in index.html plus déplacment des autres dossiers .html">
+      <created>1641907497352</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1641907497352</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

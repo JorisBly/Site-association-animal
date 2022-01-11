@@ -26,8 +26,9 @@ p{
 }
 
 @media screen and (min-width: 600px){
+
     .adress{
-        position: absolute;
+        position: inherit;
     bottom:0;
     width: 100%;
     display: flex;
@@ -37,7 +38,7 @@ p{
     background-color: #42A44C;
     }
     .questions{
-        margin-top: 300px;
+        margin-top: 195px;
 
     }
 }

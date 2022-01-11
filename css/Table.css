@@ -18,7 +18,7 @@ table{
 
     width: 80%;
     text-align: center;
-    margin-top:auto;
+    margin-top:40px;
     margin-left: 10%;
     margin-right: 10%;
 border-collapse: collapse;
@@ -85,7 +85,7 @@ caption{
 @media only screen and (max-width: 600px) {
 
    table{
-       margin-top: 65px;
+       margin-top: 50px;
    }
 
     td{
