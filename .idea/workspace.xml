@@ -125,7 +125,7 @@
       <workItem from="1641886897553" duration="17000" />
       <workItem from="1641903108673" duration="4376000" />
       <workItem from="1641910023155" duration="5296000" />
-      <workItem from="1641971051384" duration="944000" />
+      <workItem from="1641971051384" duration="3372000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout de &lt;td&gt; supplémentaire à Table.html et ajout du média querry de max 600 px a Table.css">
       <created>1639555729294</created>
@@ -288,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641914950491</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Fix &lt;p&gt; line-height in Questions.css + the size of text and backgrounds of the slider in index.html and put an overflow-x: hidden on the html">
+      <created>1641972143138</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1641972143138</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
